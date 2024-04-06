@@ -1,0 +1,1 @@
+Crafted a hospital management system using MERN stack with dual frontends, advanced authentication, and scalable architecture, highlighting proficiency in full-stack development and project scalability. Played a key role in its development and improvement, emphasizing user and admin satisfaction.
